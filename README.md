@@ -7,11 +7,10 @@ Front-End Dev & AI Engineer
 I have been an enthusiastic coder since 2020. I began with learning python after which I started making my own little programs & discord bots. After my python journey I began with teaching myself HTML, CSS & JavaScript, today I have contributed to multiple projects and I am not done. 2022 was the year where I graduated from high school (IT & Networks). My goal for the future is to focus on getting my bachelor in Artificial Intelligence.
 
 * 🌍  I'm based in Belgium
-* 🖥️  See my portfolio at [Portfolio](http://matthiastruyzelaere.dev/)
 * ✉️  You can contact me at [matthias.truyzelaere@gmail.com](mailto:matthias.truyzelaere@gmail.com)
+* 🖥️  Check my company Front-X [Portfolio]()
 * 🧠  I'm learning Artificial Intelligence
-* 🤝  I'm open to collaborating on Web based projects
-* ⚡  Secretly I am Tiger Woods⛳️
+* 🤝  I'm open to collaborating on web based projects
 
 ### Skills
 

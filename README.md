@@ -4,6 +4,7 @@
 - 🔭 I’m currently working on: **Prompt-to-Plan AI-driven Healthcare Scheduler**
 - 🌱 I’m currently learning: **How to write better and cleaner code following best practices**
 - 📫 How to reach me: **matthias.truyzelaere@gmail.com**
+- 📄 Know about my experiences [**https://matthiastruyzelaere.com**](https://matthiastruyzelaere.com)
 - ⛳️ Fun fact: **I love golfing with my dad**
 
 <h3 align="left">Connect with me:</h3>
